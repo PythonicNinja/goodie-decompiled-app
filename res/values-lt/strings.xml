@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Eiti į pagrindinį puslapį</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Eiti į viršų</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Daugiau parinkčių</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Atlikta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Peržiūrėti viską</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Pasirinkti programą</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">IŠJUNGTA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ĮJUNGTI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Ieškoti...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Išvalyti užklausą</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Paieškos užklausa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Paieška</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Pateikti užklausą</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Paieška balsu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Bendrinti naudojant</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Bendrinti naudojant „%s“</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Sutraukti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Įgalinti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">„%1$s“ neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Įgalinkite „Google Play“ paslaugas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Įdiegti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Gaukite „Google Play“ paslaugas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">„Google Play“ paslaugų klaida</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">Naudojant programą „%1$s“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Atnaujinti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">„%1$s“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Atnaujinkite „Google Play“ paslaugas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">„%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Reikia naujos versijos „Google Play“ paslaugų. Jos netrukus bus atnaujintos.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Atidaryti telefone</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Prisijungti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Prisijungti naudojant „Google“</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Išvalyti paiešką</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Paieška</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Paieška</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

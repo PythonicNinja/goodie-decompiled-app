@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">హోమ్‌కు నావిగేట్ చేయండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">పైకి నావిగేట్ చేయండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">మరిన్ని ఎంపికలు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">పూర్తయింది</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">అన్నీ చూడండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">అనువర్తనాన్ని ఎంచుకోండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ఆఫ్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ఆన్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">శోధించు...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">ప్రశ్నను క్లియర్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">ప్రశ్న శోధించండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">శోధించు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">ప్రశ్నని సమర్పించు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">వాయిస్ శోధన</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">వీరితో భాగస్వామ్యం చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">%sతో భాగస్వామ్యం చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">కుదించండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">శోధించు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

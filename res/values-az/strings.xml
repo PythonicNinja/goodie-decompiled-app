@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Aktiv edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s Google Play xidmətlərini aktiv edənə kimi işləməyəcək.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play xidmətlərini aktiv edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Quraşdırın</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s cihazınızda mövcud olmayan Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play xidmətlərini əldə edin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play xidmətləri xətası</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Daha sonra yenidən cəhd edin.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">Cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan %1$s tətbiqi işləməyəcək.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Güncəlləyin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play xidmətlərini güncəlləşdirin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s hal-hazırda güncəllənən Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play xidmətlərinin yeni versiyası lazımdır. Qısa müddətə özünü yeniləyəcək.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Telefonda açın</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Daxil olun</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google ilə daxil olun</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Axtarışı təmizləyin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Axtarın</string>
+</resources>

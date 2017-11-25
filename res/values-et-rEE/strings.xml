@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Navigeerimine avaekraanile</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navigeerimine üles</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Rohkem valikuid</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Valmis</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Kuva kõik</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Valige rakendus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">VÄLJAS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">SEES</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Otsige …</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Päringu tühistamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Otsingupäring</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Otsing</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Päringu esitamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Häälotsing</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Jagamine:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Jagamine kasutajaga %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Ahendamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Otsing</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

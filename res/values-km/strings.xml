@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">បើក</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកបើកសេវាកម្ម Google Play។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">បើកសេវាកម្ម Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">ដំឡើង</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s នឹងមិនដំណើរការទេ ប្រសិនបើមិនមានសេវាកម្មនានារបស់ Google Play ដែលបានបាត់ពីឧបករណ៍របស់អ្នក។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">ទាញយកសេវាកម្ម Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s កំពុងមានបញ្ហាជាមួយសេវាកម្មរបស់ Google Play ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s នឹងមិនដំណើរការដោយគ្មានសេវាកម្មរបស់ Google Play ដែលឧបករណ៍របស់អ្នកមិនគាំទ្រនោះទេ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">អាប់ដេត</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកធ្វើបច្ចុប្បន្នភាពសេវាកម្ម Google Play។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">អាប់ដេតសេវាកម្ម Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s នឹងមិនដំណើរការទេ បើមិនមានសេវាកម្ម Google Play ដោយសារតែវាកំពុងអាប់ដេត។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">តម្រូវឲ្យមានកំណែថ្មីនៃសេវាកម្ម Google Play។ វានឹងអាប់ដេតដោយខ្លួនវានៅពេលបន្តិចទៀតនេះ។</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">បើកតាមទូរស័ព្ទ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">ចូល</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">ចូលដោយប្រើ Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">សម្អាតការស្វែងរក</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">ស្វែងរក</string>
+</resources>

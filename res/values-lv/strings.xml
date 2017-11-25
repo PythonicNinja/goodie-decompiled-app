@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Pārvietoties uz sākuma ekrānu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s: %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s: %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Pārvietoties augšup</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Vairāk opciju</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Gatavs</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Skatīt visu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Izvēlieties lietotni</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">IZSLĒGTS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">IESLĒGTS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Meklējiet…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Notīrīt vaicājumu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Meklēšanas vaicājums</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Meklēt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Iesniegt vaicājumu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Meklēšana ar balsi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Kopīgot ar:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Kopīgot ar %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Sakļaut</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Iespējot</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">Lai lietotne %1$s darbotos, ir jāiespējo Google Play pakalpojumi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play pakalpojumu iespējošana</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Instalēt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Lai lietotne %1$s darbotos, ierīcē ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play pakalpojumu iegūšana</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play pakalpojumu kļūda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">Lai lietotne %1$s darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Atjaunināt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">Lai lietotne %1$s darbotos, jums ir jāatjaunina Google Play pakalpojumi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play pakalpojumu atjaunināšana</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Atvērt tālrunī</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Pierakstīties</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Pierakstīties ar Google kontu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Notīrīt meklēšanas vaicājumu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Meklēt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Meklēt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

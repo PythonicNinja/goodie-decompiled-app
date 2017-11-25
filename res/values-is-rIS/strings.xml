@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Fara heim</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Fara upp</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Fleiri valkostir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Lokið</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Sjá allt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Veldu forrit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">SLÖKKT</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">KVEIKT</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Leita…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Hreinsa fyrirspurn</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Leitarfyrirspurn</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Leita</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Senda fyrirspurn</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Raddleit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Deila með</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Deila með %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Minnka</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Leita</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Придвижване към „Начало“</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">„%1$s“ – %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">„%1$s“, „%2$s“ – %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Придвижване нагоре</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Още опции</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Готово</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Вижте всички</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Изберете приложение</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ИЗКЛ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ВКЛ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Търсете…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Изчистване на заявката</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Заявка за търсене</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Търсене</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Изпращане на заявката</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Гласово търсене</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Споделяне със:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Споделяне със: %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Свиване</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Активиране</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s няма да работи, освен ако не активирате услугите за Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Активиране на услугите за Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Инсталиране</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s няма да се изпълнява, тъй като услугите за Google Play не са инсталирани на устройството ви.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Изтегляне на услугите за Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Грешка в услугите за Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s има проблеми с услугите за Google Play. Моля, опитайте отново.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s няма да се изпълнява, тъй като услугите за Google Play не се поддържат от устройството ви.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Актуализиране</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s няма да се изпълнява, освен ако не актуализирате услугите за Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Актуализиране на услугите за Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s няма да се изпълнява без услугите за Google Play. Понастоящем те се актуализират.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Необходима е нова версия на услугите за Google Play. Скоро тя ще се актуализира автоматично.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Отваряне на телефона</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Вход</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Вход с Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Изчистване на търсенето</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Търсете</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Търсене</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

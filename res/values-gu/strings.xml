@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090013">તમારા સ્માર્ટફોન અથવા કમ્પ્યુટર પર &lt;b>facebook.com/device&lt;/b> ની મુલાકાત લો અને આ કોડ દાખલ કરો:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">છબી ડાઉનલોડ કરતી વખતે અનપેક્ષિત ભૂલ આવી.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">WebView લૉગિન માટે ઇન્ટરનેટ પરવાગની આવશ્યક છે</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">AndroidManifest ભૂલ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">પસંદ કર્યું</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">પસંદ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">લોડ કરી રહ્યાં છે…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001a">રદ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001b">લૉગ ઇન કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001c">Facebook સાથે ચાલુ રાખો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">ફેસબુક સાથે લૉગ ઇન કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">લૉગ આઉટ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">લૉગ આઉટ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">આ તરીકે લૉગ ઇન થયાં: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">ફેસબુકનો ઉપયોગ કરીને લૉગ ઇન કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">મોકલો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">શેર કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">તમે નિયંત્રણ કરો છો - તમે એપ્લિકેશન્સ સાથે કઈ માહિતી શેર કરવા માંગો છો તે પસંદ કરો.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">સક્ષમ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">તમે Google Play સેવાઓ સક્ષમ કરશો નહીં ત્યાં સુધી %1$s કાર્ય કરશે નહીં.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play સેવાઓ સક્ષમ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">ઇન્સ્ટૉલ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s, Google Play સેવાઓ વગર ચાલશે નહીં, જે તમારા ઉપકરણમાંથી ખૂટે છે.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play સેવાઓ મેળવો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play સેવાઓની ભૂલ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s ને Google Play સેવાઓમાં મુશ્કેલી આવી રહી છે. કૃપા કરીને ફરી પ્રયાસ કરો.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s, Google Play સેવાઓ વગર ચાલશે નહીં, જે તમારા ઉપકરણ દ્વારા સમર્થિત નથી.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">અપડેટ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">તમે Google Play સેવાઓ અપડેટ કરશો નહીં ત્યાં સુધી %1$s શરૂ થશે નહીં.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play સેવાઓ અપડેટ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s, Google Play સેવાઓ વગર શરૂ થશે નહીં, જે વર્તમાનમાં અપડેટ થઈ રહી છે.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play સેવાઓના નવા સંસ્કરણની જરૂર છે. તે ટૂંક સમયમાં પોતાને અપડેટ કરશે.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">ફોનમાં ખોલો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">સાઇન ઇન કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google માં સાઇન ઇન કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">મોકલો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">શોધ સાફ કરો</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">શોધો</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">ਹੋਮ ਨੈਵੀਗੇਟ ਕਰੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">ਉੱਪਰ ਨੈਵੀਗੇਟ ਕਰੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">ਹੋਰ ਚੋਣਾਂ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">ਹੋ ਗਿਆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">ਸਭ ਦੇਖੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">ਇੱਕ ਐਪ ਚੁਣੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ਬੰਦ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ਤੇ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">ਖੋਜ…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">ਸਵਾਲ ਹਟਾਓ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">ਸਵਾਲ ਖੋਜੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">ਖੋਜੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">ਸਵਾਲ ਪ੍ਰਸਤੁਤ ਕਰੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">ਵੌਇਸ ਖੋਜ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">ਇਸ ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">%s ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">ਨਸ਼ਟ ਕਰੋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">ਖੋਜ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

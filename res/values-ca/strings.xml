@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">"Navega a la pàgina d'inici"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navega cap a dalt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Més opcions</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Fet</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">"Mostra'ls tots"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Selecciona una aplicació</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">DESACTIVAT</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ACTIVAT</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Cerca...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Esborra la consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Consulta de cerca</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Cerca</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Envia la consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Cerca per veu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Comparteix amb</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Comparteix amb %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Replega</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Activa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s no funcionarà si no actives els Serveis de Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Activa els Serveis de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Instal·la</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">"%1$s no s'executarà si el dispositiu no té instal·lats els serveis de Google Play."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Obtén els Serveis de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Error dels Serveis de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s té problemes amb els serveis de Google Play. Torna-ho a provar.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s no es pot executar sense els serveis de Google Play, però no són compatibles amb el teu dispositiu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Actualitza</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">"%1$s no s'executarà si no actualitzes els Serveis de Google Play."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Actualitza els Serveis de Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">"%1$s no s'executarà sense els Serveis de Google Play, que s'estan actualitzant en aquest moment."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">"Cal una nova versió dels Serveis de Google Play. S'actualitzaran automàticament aviat."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Obre al telèfon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Inicia sessió</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Inicia la sessió amb Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Esborra la cerca</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Cerca</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Cerca</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">+999</string>
+</resources>

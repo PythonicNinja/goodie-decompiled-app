@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090013">మీ స్మార్ట్‌ఫోన్ లేదా కంప్యూటర్‌లో &lt;b>facebook.com/device&lt;/b> సందర్శించి, ఈ కోడ్‌ను నమోదు చేయండి:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">చిత్రాన్ని డౌన్‌లోడ్ చేస్తున్నప్పుడు ఊహించని లోపం ఏర్పడింది.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">వెబ్ వీక్షణ లాగిన్‌కు ఇంటర్నెట్ అనుమతి అవసరం</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">AndroidManifest లోపం</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">ఇష్టంగా గుర్తు పెట్టబడింది</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">ఇష్టంగా గుర్తు పెట్టు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">లోడ్ చేస్తోంది…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001a">రద్దు చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001b">లాగిన్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001c">Facebookతో కొనసాగించండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">Facebookతో లాగిన్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">లాగ్ అవుట్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">లాగ్ అవుట్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">ఇలా లాగిన్ చేసారు: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">Facebook ఉపయోగించి లాగిన్ చేసారు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">పంపు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">భాగస్వామ్యం చేయండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">మీకు నియంత్రణ ఉంది - మీరు అనువర్తనాలతో భాగస్వామ్యం చేయాలనుకునే సమాచారాన్ని ఎంచుకోండి.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">ప్రారంభించు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">మీరు Google Play సేవలను ప్రారంభిస్తే మినహా %1$s పని చేయదు.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play సేవలను ప్రారంభించండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">ఇన్‌స్టాల్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు మీ పరికరంలో లేవు.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play సేవలను పొందండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play సేవల లోపం</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s Google Play సేవలతో సమస్య కలిగి ఉంది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఈ సేవలకు మీ పరికరంలో మద్దతు లేదు.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">నవీకరించు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">మీరు Google Play సేవలను నవీకరిస్తే మినహా %1$s అమలు కాదు.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play సేవలను నవీకరించండి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు ప్రస్తుతం నవీకరించబడుతున్నాయి.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">కొత్త Google Play సేవల సంస్కరణ అవసరం. అది కొద్ది సేపట్లో దానంతట అదే నవీకరించబడుతుంది.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">ఫోన్‌లో తెరువు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">సైన్ ఇన్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Googleతో సైన్ ఇన్ చేయి</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">పంపు</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">శోధనను తీసివేస్తుంది</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">శోధించండి</string>
+</resources>

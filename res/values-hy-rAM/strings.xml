@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Ուղղվել տուն</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Ուղղվել վերև</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Այլ ընտրանքներ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Պատրաստ է</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Տեսնել բոլորը</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Ընտրել ծրագիր</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ԱՆՋԱՏՎԱԾ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ՄԻԱՑՎԱԾ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Որոնում...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Մաքրել հարցումը</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Որոնման հարցում</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Որոնել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Ուղարկել հարցումը</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Ձայնային որոնում</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Կիսվել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Կիսվել %s-ի միջոցով</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Թաքցնել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Որոնել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

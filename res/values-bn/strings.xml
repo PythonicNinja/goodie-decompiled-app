@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090013">আপনার কম্পিউটার বা স্মার্টফোন থেকে &lt;b>facebook.com/device&lt;/b> এ যান এবং এই কোডটিকে প্রবেশ করান:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">একটি চিত্র ডাউনলোড করার সময়ে অপ্রত্যাশিত ত্রুটি দেখা দিচ্ছে৷</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">WebView লগ ইন করার জন্য INTERNET-এর অনুমতির প্রয়োজন আছে</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">AndroidManifest ত্রুটি</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">পছন্দ করা হয়েছে</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">পছন্দ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">লোড হচ্ছে…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001a">বাতিল করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001b">লগ ইন করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001c">Facebook এর সাথে চালিয়ে যান</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">Facebook -এর সাথে লগ ইন করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">লগ আউট করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">লগ আউট করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">এই হিসাবে লগ ইন করা হয়েছে: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">Facebook ব্যবহার করে লগ ইন করা হয়েছে</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">পাঠান</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">ভাগ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">আপনি নিয়ন্ত্রণে আছেন - অ্যাপ্সের সাথে আপনি যে তথ্য শেয়ার করতে চান তা বাছুন৷</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">সক্ষম করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">আপনি Google Play পরিষেবা সক্ষম না করা পর্যন্ত %1$s কাজ করবে না।</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play পরিষেবা সক্ষম করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">ইনস্টল করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Google Play পরিষেবা ছাড়া %1$s চলবে না, যা আপনার ডিভাইসে অনুপস্থিত।</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play পরিষেবা পান</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play পরিষেবার ত্রুটি</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">Google Play পরিষেবাগুলির সাথে %1$s এর সমস্যা হচ্ছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">Google Play পরিষেবা ছাড়া %1$s চলবে না, যেটি আপনার ডিভাইসে সমর্থিত নয়৷</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">আপডেট করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">আপনি Google Play পরিষেবা আপডেট না করা পর্যন্ত %1$s চলবে না।</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play পরিষেবা আপডেট করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">Google Play পরিষেবা ছাড়া %1$s চলবে না যা বর্তমানে আপডেট হচ্ছে।</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play পরিষেবার নতুন সংস্করণ প্রয়োজন৷ খুব শীঘ্রই এটা নিজেই আপডেট হবে৷</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">ফোনে খুলুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">প্রবেশ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google এর মাধ্যমে প্রবেশ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">প্রেরণ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">অনুসন্ধান সাফ করুন</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">অনুসন্ধান করুন</string>
+</resources>

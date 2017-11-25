@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Gaitu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s aplikazioak ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Gaitu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Instalatu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu gailuan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Lortu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play zerbitzuen errorea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s aplikazioak arazoak ditu Google Play zerbitzuekin. Saiatu berriro.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s aplikazioa ezin da erabili Google Play zerbitzurik gabe, eta zure gailua ez da zerbitzuokin bateragarria.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Eguneratu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Eguneratu Google Play zerbitzuak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s ez da exekutatuko Google Play zerbitzurik gabe; une honetan eguneratzen ari dira zerbitzuok.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play zerbitzuen bertsio berria behar da. Berehala eguneratuko da automatikoki.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Ireki telefonoan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Hasi saioa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Hasi saioa Google-n</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Garbitu bilaketa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Bilaketa</string>
+</resources>

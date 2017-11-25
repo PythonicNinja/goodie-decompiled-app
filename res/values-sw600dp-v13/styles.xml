@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0001" parent="@style/APKTOOL_DUMMYVAL_0x7f0d00df">
+        <item name="APKTOOL_DUMMYVAL_0x7f01016c">APKTOOL_DUMMYVAL_0x7f110053</item>
+        <item name="APKTOOL_DUMMYVAL_0x7f01016d">APKTOOL_DUMMYVAL_0x7f11002b</item>
+    </style>
+</resources>

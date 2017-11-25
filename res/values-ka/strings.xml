@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">ჩართვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s ვერ იმუშავებს Google Play Services-ის ჩართვამდე.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play Services-ის ჩართვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">ინსტალაცია</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს მოწყობილობას.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play Services-ის შეცდომა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომლებიც მხარდაუჭერელია თქვენი მოწყობილობის მიერ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">განახლება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">განაახლეთ Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელთა განახლებაც ამჟამად მიმდინარეობს.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">საჭიროა Google Play Services-ის ახალი ვერსია. ის მალე განახლდება.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">ტელეფონში გახსნა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">შესვლა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google-ით შესვლა</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">ძიების გასუფთავება</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">ძიება</string>
+</resources>

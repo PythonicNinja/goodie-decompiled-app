@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">ഹോമിലേക്ക് നാവിഗേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">മുകളിലേക്ക് നാവിഗേറ്റുചെയ്യുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">കൂടുതൽ‍ ഓപ്‌ഷനുകള്‍</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">പൂർത്തിയാക്കി</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">എല്ലാം കാണുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">ഒരു അപ്ലിക്കേഷൻ തിരഞ്ഞെടുക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ഓഫ്</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ഓൺ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">തിരയുക…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">അന്വേഷണം മായ്‌ക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">തിരയൽ അന്വേഷണം</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">തിരയൽ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">അന്വേഷണം സമർപ്പിക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">ശബ്ദതിരയൽ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">ഇവരുമായി പങ്കിടുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">%s എന്നതുമായി പങ്കിടുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">ചുരുക്കുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">തിരയുക</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

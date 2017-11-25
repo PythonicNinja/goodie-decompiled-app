@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Krmarjenje domov</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Krmarjenje navzgor</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Več možnosti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Končano</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Pokaži vse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Izbira aplikacije</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">IZKLOPLJENO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">VKLOPLJENO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Iskanje …</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Izbris poizvedbe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Iskalna poizvedba</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Iskanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Pošiljanje poizvedbe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Glasovno iskanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Deljenje z</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Deljenje z:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Strni</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Omogoči</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Omogočanje storitev Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Namesti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Namestitev storitev Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Napaka storitev Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">Aplikacija %1$s ima težave s storitvami Google Play. Poskusite znova.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">Aplikacija %1$s ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Posodobi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">Aplikacija %1$s ne bo delovala, če ne posodobite storitev Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Posodobitev storitev Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Odpiranje v telefonu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Prijava</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Prijava z Google Računom</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Počisti iskalno polje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Iskanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Iskanje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

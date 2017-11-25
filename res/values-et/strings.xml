@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Luba</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play teenuste lubamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Installi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes pole.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play teenuste hankimine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Viga Google Play teenustes</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">Rakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Värskenda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play teenuste värskendamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Vajalik on Google Play teenuste uus versioon. See värskendab end peagi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Ava telefonis</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Logi sisse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">"Logi sisse Google'i kontoga"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Otsingu kustutamine</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Otsing</string>
+</resources>

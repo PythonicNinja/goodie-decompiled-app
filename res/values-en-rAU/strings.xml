@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Navigate home</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navigate up</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">More options</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Done</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">See all</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Choose an app</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">OFF</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ON</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Search…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Clear query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Search query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Submit query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Voice search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Share with</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Share with %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Collapse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

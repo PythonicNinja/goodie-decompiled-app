@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">فعال کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے، %1$s کام نہیں کرے گی۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">‏Google Play سروسز فعال کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">انسٹال کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے آلہ سے غائب ہیں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">‏Google Play سروسز حاصل کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">‏Google Play سروسز کی خرابی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">‏%1$s کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جن کی آپ کا آلہ معاونت نہیں کرتا۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">اپ ڈیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">‏جب تک آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں %1$s تب تک نہیں چلے گی۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو فی الحال اپ ڈیٹ ہو رہی ہیں۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">‏Google Play سروسز کے نئے ورژن کی ضرورت ہے۔ یہ تھوڑی دیر میں خود ہی اپنے آپ کو اپ ڈیٹ کر لے گا۔</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">فون پر کھولیں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">سائن ان کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">‏Google کے ساتھ سائن ان کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">تلاش صاف کریں</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">تلاش</string>
+</resources>

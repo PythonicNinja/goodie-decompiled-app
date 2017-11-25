@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090013">ನಿಮ್ಮ ಸ್ಮಾರ್ಟ್‌ ಫೋನ್‌ ಅಥವಾ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ &lt;b>facebook.com/device&lt;/b> ಗೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು ಈ ಕೋಡ್‌ ಅನ್ನು ನಮೂದಿಸಿ:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">ಚಿತ್ರವನ್ನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡುವಾಗ ಅನಿರೀಕ್ಷಿತ ದೋಷ ಕಂಡುಬಂದಿದೆ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">WebView ಲಾಗಿನ್‌ಗೆ ಇಂಟರ್ನೆಟ್ ಅನುಮತಿಯ ಅಗತ್ಯವಿದೆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">AndroidManifest ದೋಷ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">ಇಷ್ಟವಾಗಿದೆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">ಲೋಡ್‌ ಆಗುತ್ತಿದೆ…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001a">ರದ್ದುಮಾಡು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001b">ಲಾಗ್‌ ಇನ್‌</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001c">Facebook ಅನ್ನು ಮುಂದುವರಿಸಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">Facebook ಮೂಲಕ ಲಾಗ್‌ ಇನ್‌ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">ಲಾಗ್‌ ಔಟ್‌</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">ಲಾಗ್‌ ಔಟ್‌</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">ಇದರಂತೆ ಲಾಗಿನ್‌ ಮಾಡಲಾಗಿದೆ: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">Facebook ಬಳಸಿಕೊಂಡು ಲಾಗಿನ್‌ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">ಕಳುಹಿಸಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">ನೀವು ನಿಯಂತ್ರಣದಲ್ಲಿರುವಿರಿ - ನೀವು ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಹಂಚಿಕೊಳ್ಳಲು ಬಯಸುವ ವಿಷಯವನ್ನು ಆರಿಸಿ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">ಸಕ್ರಿಯಗೊಳಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">Google Play ಸೇವೆಗಳನ್ನು ನೀವು ಸಕ್ರಿಯಗೊಳಿಸದ ಹೊರತು %1$s ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">ಸ್ಥಾಪಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">ನಿಮ್ಮ ಸಾಧನದಿಂದ ಕಾಣೆಯಾಗಿರುವ %1$s, Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play ಸೇವೆಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play ಸೇವೆಗಳ ದೋಷ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">Google Play ಸೇವೆಗಳಲ್ಲಿ %1$s ಸಮಸ್ಯೆಯನ್ನು ಹೊಂದಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">ನಿಮ್ಮ ಸಾಧನದ ಮೂಲಕ ಬೆಂಬಲಿಸದಿರುವ Google Play ಸೇವೆಗಳಿಲ್ಲದೆ %1$s ರನ್‌ ಆಗುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">ಅಪ್‌ಡೇಟ್‌ ಮಾಡು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">ನೀವು Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸದ ಹೊರತು %1$s ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ಪ್ರಸ್ತುತ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತಿರುವ %1$s ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play ಸೇವೆಗಳ ಹೊಸ ಆವೃತ್ತಿ ಅಗತ್ಯವಿದೆ. ಸದ್ಯದಲ್ಲೇ ಅದು ತಾನಾಗಿಯೇ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತದೆ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">ಫೋನ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">ಸೈನ್ ಇನ್</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google ಮೂಲಕ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">ಕಳುಹಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">ಹುಡುಕಾಟ ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">ಹುಡುಕಿ</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f0a0001">
+        <item>Max raz dziennie</item>
+        <item>Max raz w tygodniu</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f0a0002">
+        <item>Warszawa</item>
+        <item>Gdańsk</item>
+        <item>Wrocław</item>
+        <item>Poznań</item>
+        <item>Katowice</item>
+        <item>Kraków</item>
+        <item>Łódź</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f0a0003">
+        <item>Kobieta</item>
+        <item>Mężczyzna</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f0a0004">
+        <item>Goodie to nowoczesna i przyjazna platforma www oraz aplikacja na telefon biorąca pod uwagę lokalizację użytkownika, która prezentuje szeroki wachlarz dostępnych okazji i inspiracji.</item>
+        <item>Znajdziesz tu informację o zniżkach i promocjach w sklepach, centrach handlowych, restauracjach w określonej lokalizacji oraz sklepach on-line. Sugeruje co kupić na prezent, informuje o nadchodzących wydarzeniach w galeriach handlowych oraz dostępnych w nich okazjach zakupowych.</item>
+        <item>Są tu wszystkie goodie okazje, ułożone od najnowszych, tak, żeby z łatwością przeglądać co nowego pojawiło się od Twojej ostatniej wizyty. Dzięki temu żadna okazja Cię nie ominie.</item>
+        <item>Znajdziesz tu wszystkie sklepy, które oznaczyłeś jako obserwowane, oraz ich okazje. Dodatkowo, możesz też otrzymywać newsletter oraz powiadomienia z informacjami o nowych okazjach z Twoich marek. Dzięki temu będziesz zawsze na bieżąco, z markami, które lubisz.</item>
+        <item>Są tu wszystkie galerie w Twojej okolicy. Możesz wybrać tą, która ma interesujące Cię marki oraz sprawdzić, jakie okazje możesz w niej znaleźć. To idealna pomoc na zakupach.</item>
+        <item>Wpisz w pole wyszukiwarki nazwę marki lub produktu i zobacz wszystkie zniżki, wydarzenia, nowości, a nawet gazetki, które się z nimi wiążą.</item>
+        <item>Otwórz szczegóły zniżki i postępuj wg załączonego opisu. Niektóre zniżki są dostępne dla wszystkich, inne mogą być ograniczone posiadaniem kuponu zniżkowego, który uzyskasz klikając w przycisk ‘pokaż kupon’.</item>
+        <item>Informacje o czasie obowiązywania okazji znajdziesz w jej szczegółach.</item>
+        <item>Jeżeli okazja straci ważność, nie można z niej już skorzystać. Spiesz się, by nie przegapić żadnej okazji.</item>
+        <item>Historię ostatnio oglądanych okazji znajdziesz w Menu > Zapisane okazje. Aby mieć dostęp do historii musisz się zalogować.</item>
+        <item>Zapisane okazje znajdziesz w Menu > Zapisane okazje. Aby móc zapisywać okazje i przeglądać listę zapisanych musisz się zalogować.</item>
+        <item>Jeśli okazja, którą znalazłeś w goodie nie działa powiadom o tym fakcie sklep, w którym chcesz dokonać zakupu. Możesz też wystawić odpowiednią opinię o tej okazji na goodie, by inni użytkownicy mogli o tym przeczytać oraz by pracownicy danej marki mieli możliwość Ci odpowiedzieć.</item>
+        <item>Użyj przycisku zaloguj w górnej belce menu. Możesz zalogować się za pomocą konta na Facebook lub za pomocą adresu e-mail.</item>
+        <item>Zarejestrowani użytkownicy mogą więcej. Otrzymasz dostęp do unikalnych kodów promocyjnych, możliwości oceny i pisania komentarzy, otrzymywania powiadomień o najlepszych okazjach oraz zapisywania i odczytywania zapisanych okazji na dowolnym urządzeniu.</item>
+        <item>Jeśli z jakiegoś powodu nie będziesz chciał korzystać z naszej platformy, poinformuj nas o tym, za pomocą formularza kontaktowego.</item>
+        <item>Otrzymasz informacje o najpopularniejszych okazjach oraz nowych markach, które dołączyły do goodie. Jeżeli jesteś zarejestrowanym użytkownikiem, otrzymasz również informację o nowościach w Twoich markach.</item>
+        <item>Jeżeli jesteś zarejestrowanym użytkownikiem goodie, preferencje newslettera możesz ustalić w Menu > Mój profil. Jeśli nie jesteś zarejestrowanym użytkownikiem, możesz zapisać się na newsletter w zakładce najnowsze okazje.</item>
+        <item>Każdy mail, który otrzymasz, zawiera opcję wyłączenia newslettera, który znajdziesz na samym dole wiadomości. Możesz też zmienić swoje preferencje w Menu > Mój profil, jeżeli jesteś zalogowanym użytkownikiem.</item>
+        <item>Powiadomienia wysyłane są na Twoją aplikację mobilną, jeżeli ją posiadasz. Otrzymasz je, gdy pojawią się nowe okazje lub gdy będziesz w pobliżu galerii handlowej, w której mamy okazje specjalne.</item>
+        <item>Możesz zrobić to w ustawieniach Twojego telefonu. Ustawienia > Aplikacje > goodie > Powiadomienia</item>
+        <item>Będziesz otrzymywać je za pomocą wiadomości e-mail oraz powiadomień, o ile masz je włączone. Możesz też sprawdzić okazje w Twoich markach samodzielnie, w zakładce obserwowane.</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f0a0005">
+        <item>Czym jest goodie?</item>
+        <item>Co znajdę na goodie?</item>
+        <item>Co znajdę w zakładce najnowsze?</item>
+        <item>Co znajdę w zakładce obserwowane sklepy?</item>
+        <item>Co znajdę w zakładce galerie handlowe?</item>
+        <item>Jak skorzystać z wyszukiwarki?</item>
+        <item>Jak skorzystać z okazji?</item>
+        <item>Ile mam czasu na wykorzystanie kuponu promocyjnego?</item>
+        <item>Co w przypadku, gdy okazja straci ważność?</item>
+        <item>Jak mogę odnaleźć okazję, którą oglądałem?</item>
+        <item>Gdzie mogę znaleźć zapisane okazje?</item>
+        <item>Co zrobić kiedy okazja nie działa?</item>
+        <item>Jak zalogować się na konto w goodie?</item>
+        <item>Dlaczego powinienem stworzyć konto w goodie?</item>
+        <item>Jak usunąć konto na goodie?</item>
+        <item>Co będę otrzymywać w newsletterze?</item>
+        <item>Jak zapisać się do newslettera?</item>
+        <item>Jak wyłączyć newsletter?</item>
+        <item>Co to są powiadomienia PUSH i kiedy mogę je dostawać?</item>
+        <item>Jak wyłączyć powiadomienia PUSH?</item>
+        <item>W jaki sposób dostanę informację o nowych okazjach w marce, którą obserwuję?</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0">false</item>
+</resources>

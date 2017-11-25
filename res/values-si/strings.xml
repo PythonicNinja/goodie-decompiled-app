@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">සබල කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">ඔබ Google Play සේවා සබල කරන්නේ නම් මිස %1$s වැඩ නොකරනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play සේවා සබල කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">ස්ථාපනය කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">ඔබගේ ටැබ්ලට් පරිගණකයේ නැති Google Play සේවා නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play සේවා ලබා ගන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play සේවා දෝෂය</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s හට Google Play සේවා සමගින් ගැටලු ඇත. කරුණාකර නැවත උත්සාහ කරන්න.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">ඔබගේ උපාංගය මගින් සහාය නොදක්වන, Google Play සේවා නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">යාවත්කාලීන කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">Google Play සේවා යාවත්කාලීන කරන්නේ නොමැතිව %1$s ධාවනය නොවේ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play සේවා යාවත්කාලීන කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">දැනට යාවත්කාලීන කරමින් ඇති, Google Play සේවා නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play සේවාවල නව අනුවාදයක් අවශ්‍යයි. එය මද වේලාවකින් එය විසින්ම යාවත්කාලීන වනු ඇත.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">දුරකථනය තුළ විවෘත කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">පුරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google සමගින් පුරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">සෙවීම හිස් කරන්න</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">සෙවීම</string>
+</resources>

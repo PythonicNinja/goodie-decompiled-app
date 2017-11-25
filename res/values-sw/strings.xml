@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Nenda mwanzo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Nenda juu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Chaguo zaidi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Nimemaliza</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Angalia zote</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Chagua programu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">IMEZIMWA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">IMEWASHWA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Tafuta…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Futa hoja</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Hoja ya utafutaji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Tafuta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Wasilisha hoja</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Tafuta kwa kutamka</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Shiriki na:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Shiriki na %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Kunja</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Washa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s haitafanya kazi isipokuwa uwashe huduma za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Washa huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Sakinisha</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye kifaa chako.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Pata huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Hitilafu kwenye huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s inakumbwa na hitilafu ya huduma za Google Play. Tafadhali jaribu tena.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazitumiki kwenye kifaa chako.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Sasisha</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s haitafanya kazi hadi usasishe huduma za Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Sasisha huduma za Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi zinasasishwa sasa.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Toleo jipya la huduma za Google Play linahitajika. Litajisasisha baada ya muda mfupi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Fungua kwenye simu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Ingia katika akaunti</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Ingia katika akaunti ukitumia Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Futa utafutaji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Tafuta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Tafuta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

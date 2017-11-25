@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Иштетүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">Google Play кызматтарын иштетмейиңизче %1$s иштебейт.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play кызматтарын иштетүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Орнотуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Google Play кызматтарысыз %1$s иштебейт. Алар түзмөгүңүздө жок болуп жатат.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play кызматтарын алуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play кызматтарынын катасы</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s колдонмосунун Google Play кызматтары менен иштөөдө көйгөй чыкты. Кайра аракет кылыңыз.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s колдонмосу сиздин түзмөгүңүздө колдоого алынбаган Google Play кызматтары болбосо иштебейт.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Жаңыртуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">Google Play кызматтары жаңыртылмайынча %1$s иштебейт.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play кызматтарын жаңыртуу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">Google Play кызматтарысыз %1$s иштебейт, алар учурда жаңыртылууда.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play кызматтарынын жаңы версиясы талап кылынат. Бир аздан кийин ал өзү эле жаңыртылат.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Телефондо ачык</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Кирүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google менен кирүү</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Издөөнү тазалоо</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Издөө</string>
+</resources>

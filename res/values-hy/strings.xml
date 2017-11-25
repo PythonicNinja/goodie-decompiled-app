@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Միացնել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Միացնել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Տեղադրել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր սարքում:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Տեղադրել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play ծառայությունների սխալ կա</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Փորձեք նորից:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք ձեր սարքում չեն աջակցվում:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Թարմացնել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Թարմացնել Google Play ծառայությունները</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Անհրաժեշտ է Google Play ծառայությունների նոր տարբերակը: Այն շուտով կթարմացվի ավտոմատ կերպով:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Բացել հեռախոսով</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Մուտք գործել</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Մուտք գործել Google-ով</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Մաքրել որոնման դաշտը</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Որոնում</string>
+</resources>

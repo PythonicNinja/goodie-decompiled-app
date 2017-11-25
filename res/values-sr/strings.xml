@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Одлазак на Почетну</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Кретање нагоре</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Још опција</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Готово</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Прикажи све</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Избор апликације</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ИСКЉУЧИ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">УКЉУЧИ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Претражите...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Брисање упита</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Упит за претрагу</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Претрага</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Слање упита</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Гласовна претрага</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Дели са</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Дели са апликацијом %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Скупи</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Омогући</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Омогућите Google Play услуге</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Инсталирај</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s не може да се покрене без Google Play услуга, које нису инсталиране на уређају.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Преузмите Google Play услуге</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Грешка Google Play услуга</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s има проблема са Google Play услугама. Пробајте поново.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s не може да се покрене без Google Play услуга, које уређај не подржава.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Ажурирај</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Ажурирајте Google Play услуге</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s не може да се покрене без Google Play услуга, које се тренутно ажурирају.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Потребна је нова верзија Google Play услуга. Ускоро ће се ажурирати.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Отвори на телефону</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Пријави ме</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Пријави ме на Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Брисање претраге</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Претражите</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Претражи</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">>999</string>
+</resources>

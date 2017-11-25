@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Navigate home</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navigate up</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">More options</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Done</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">See all</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Choose an app</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">OFF</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ON</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Search…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Clear query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Search query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Submit query</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Voice search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Share with</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Share with %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Collapse</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090013">Visit &lt;b>facebook.com/device&lt;/b> and enter your code.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">Unexpected error while downloading an image.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">WebView login requires INTERNET permission</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">AndroidManifest Error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">Liked</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">Like</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">Loading…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001a">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001b">Log in</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001c">Continue with Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">Log in with Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">Log out</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">Log out</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">Logged in as: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">Logged in using Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">Send</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">Share</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">"You're in control - choose what info you want to share with apps."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Enable</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Enable Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Install</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Get Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play services error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Update</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">"%1$s won't run unless you update Google Play services."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Update Google Play services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Open on phone</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Sign in</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Sign in with Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">Send</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Clear search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Search</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003b">This app</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003c">Would you like to send an anonymous report so we can fix the problem?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003d">"Don't Send"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003e">Always Send</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003f">Send Report</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090040">%s Unexpectedly Quit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090041">An error has occurred</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090042">Error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090043">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090044">OK</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090045">The update could not be downloaded. Would you like to try again?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090046">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090047">Retry</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090048">Download Failed</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090049">Your device is not connected to the internet. Please resolve connectivity issues and try again.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004a">%s has expired. Please check HockeyApp for any updates.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004b">Build Expired</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004c">Attach File</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004d">Attach Picture</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004e">Add Attachment</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004f">Error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090050">Loading…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090051">Email</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090052">Would you like to send your feedback again?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090053">Pending</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090054">Retrieving discussions…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090055">An error has occurred</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090056">Last Updated: %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090057">Only %s attachments allowed.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090058">Message</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090059">Name</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005a">Refresh</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005b">Add a Response</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005c">Select File</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005d">Select Picture</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005e">Send Feedback</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005f">"Message couldn't be posted. Please check your input values and your connection, then try again."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090060">No response from server. Please check your connection, then try again.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090061">Sending feedback…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090062">Subject</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090063">Feedback</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090064">Please enter an email address</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090065">Please enter a valid email address</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090066">Please enter your name</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090067">Please enter a subject</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090068">"Message couldn't be posted. Please enter a feedback text"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090069">Email</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006a">"Please enter your HockeyApp account's email address and password to authorize access to this app."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006b">"Please enter your HockeyApp account's email address to authorize access to this app."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006c">Login</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006d">Please fill in the missing account credentials.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006e">Password</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006f">Do you want to save your drawings?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090070">Discard</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090071">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090072">Save</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090073">Draw something!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090074">Clear</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090075">Save</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090076">Undo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090077">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090078">Retry</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090079">In order to download and install app updates you will have to allow the app to access your device storage.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007a">Need storage access</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007b">Update</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007c">Show information about the new update?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007d">Ignore</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007e">Show</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007f">Update Available</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090080">%s is available and is a mandatory update!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090081"><b>Dane firmowe</b>" 
+
+Millennium Goodie sp. z o.o. 
+ul. Stanisława Żaryna 2A, 02-593 Warszawa 
+e-mail: kontakt@goodie.pl 
+
+Millennium Goodie sp. z o.o. jest spółką z grupy Banku Millennium."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090082">O goodie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090084">Goodie – inspiracje, okazje, zakupy</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090089">Usługi dodatkowe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008b">i okolice</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008c">ARCHIWALNE OKAZJE</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008d">średnia ocen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008e">%1$d okazji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008f">Otrzymasz powiadomienie, gdy pojawią się nowe okazje.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090090">Mapa sklepów</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090091">Dodaj %1$s do obserwowanych, aby otrzymać powiadomienie, gdy pojawią się nowe okazje.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090092">%1$s nie ma teraz aktywnych okazji.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090093">Nowości</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090094">Pozostałe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090095">brand_details_transition</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090096">WWW</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090097">brak ofert</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090098">Nowe okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090099">Wyszukaj markę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009a">Ukryj okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009b">Wszystkie marki</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009c">Pokaż okazje (%1$d)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009d">Anuluj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009e">Kategorie ukryte</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009f">Kategorie widoczne</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a0">Wszystkie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a2">Więcej z %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a3">Pozostałe kategorie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a4">English</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a5">Wybierz centrum handlowe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a6">Aktywuj go, będąc przy kasie. Czy chcesz go aktywować teraz?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a7">Nie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a8">Ten kod będzie ważny tylko przez %1$s.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a9">Tak, jestem przy kasie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900aa">Kod promocyjny wygasł</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ab">Kod ważny do %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ac">Twój kod będzie ważny jeszcze przez:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ad">Kontakt</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ae">ADRES EMAIL</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900af">Wprowadź poprawny adres email</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b0">Musisz wypełnić wszystkie pola</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b1">Napisz do nas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b2">Odpowiedź na Twoją wiadomość zostanie udzielona jak najszybciej przez zespół goodie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b3">WIADOMOŚĆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b4">DZIĘKUJEMY. WIADOMOŚĆ ZOSTAŁA WYSŁANA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b5">IMIĘ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b6">Pola wymagane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b7">TEMAT WIADOMOŚCI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b8">Sugestie i pomysły</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b9">Chcę wyrazić swoją opinię</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ba">Inne</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900bb">Pomoc techniczna (problem z logowaniem i in.)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900bc">WYŚLIJ WIADOMOŚĆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900bd">WRÓĆ DO GOODIE</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900bf">Przepraszamy. W tym momencie nie mamy dostępnych kuponów.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c0">Wszystkie okazje %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c1">GDZIE:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c2">W sklepie internetowym:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c3">Kod promocyjny został skopiowany do schowka</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c5">Tu wpisz swoją opinię</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c6">Rozwiń</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c7">Opinie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c9">Pokaż więcej opinii</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900cc">Kod</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900cd">Zwiń</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ce">Czytaj więcej</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900cf">OPIS:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d1">Sklep stacjonarny - mapa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d2">Pokaż na mapie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d3">ZNIŻKA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d4">WYDARZENIE</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d5">GAZETKA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d6">%1$s km - Nawiguj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d7">NOWOŚĆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d8">WYPRZEDAŻ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d9">Brak okazji w wybranej kategorii.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900da">O karcie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900db">Inne okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900dc">Załóż kartę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900de">Użyj karty</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e1">INNI OGLĄDALI TAKŻE:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e2">Usuń</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e3">Okazja została usunięta z zapisanych</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e4">Zapisz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e5">Zapisz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e6">Okazja została zapisana</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e7">SPRAWDŹ TAKŻE:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e8">Udostępnij:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e9">Udostępnij</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ea">Sprawdź tę okazję na goodie:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900eb">Sponsorowane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ec">Zapisz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ed">Zapisane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ee">Pokaż kod</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ef">KIEDY:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f0">Ważna od %1$s do %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f1">Moja lokalizacja</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f2">Wyloguj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f3">Karty lojalnościowe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f4">Widok strony głównej</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f5">Mój profil</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f6">Zapisane okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f7">Zaloguj się</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f8">Zarejestruj się</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f9">To pole jest wymagane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fa">"Aplikacja działa teraz w trybie offline.
+Upewnij się, że masz połączenie z siecią."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fb">Brak połączenia z Internetem</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fc">Nie udało się usunąć okazji z zapisanych. Błąd komunikacji z goodie, spróbuj ponownie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fd">Przeglądaj zapisane okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fe">Przeglądaj zapisane karty lojalnościowe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ff">Brak marek w wybranej kategorii</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090100">"Aplikacja działa teraz w trybie offline.
+Upewnij się, że masz połączenie z siecią."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090101">Brak połączenia z Internetem</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090102">Brak wyników</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090104">Odśwież</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090105">Nie udało się dodać okazji do zapisanych. Błąd komunikacji z goodie, spróbuj ponownie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090106">Nie udało się zapisać do newslettera. Błąd komunikacji z goodie, spróbuj ponownie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090107">Nie udało się udostępnić okazji. Błąd komunikacji z goodie, spróbuj ponownie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090108">Filtruj galerie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090109">Strona %1$d/%2$d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010a">flyer_details_transition</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010b">Gazetka została zapisana</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010c">Pokaż całą gazetkę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010d">Pokaż strony gazetki</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010e">Strona %1$d/%2$d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010f">Wstecz do logowania</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090110">Podaj swój e-mail, na który wyślemy Ci link pozwalający ustalić nowe hasło.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090111">E-mail z linkiem do zresetowania hasła został wysłany na adres:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090112">Sprawdź swoją pocztę i użyj linku, aby nadać nowe hasło.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090113">E-mail wysłany</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090114">WYŚLIJ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090115">Zapomniałeś hasła?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090119">Geofence transition error: invalid transition type %1$d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011a">Goodie dla Partnera</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011b">kartę lojalnościową</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011c">E-mail</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011d">Połącz z Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011e">Połącz z Google+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011f">Wszystkie zniżki w jednym miejscu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090120">Odbierz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090121">Dalej</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090122">Jesteś coraz bliżej</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090123">najlepszych okazji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090124">Pomoc</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090125">Dla Ciebie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090126">Galerie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090127">Obserwowane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090128">Zaloguj się</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090129">Przypnij</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012a">Przypięta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012b">Lista galerii</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012c">Ponieważ nie wyraziłeś zgody na udostępnianie nam swojej lokalizacji, wyświetlimy okazje dla centrum wybranej lokalizacji.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012d">Pokaż okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012e">Brak zgody na lokalizację</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012f">ZAPISZ LOKALIZACJĘ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090130">Nie można zapisać lokalizacji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090131">Twoja lokalizacja</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090132">Wielokrotnie wprowadziłeś złe hasło. W trosce o Twoje bezpieczeństwo zablokowaliśmy Twoje konto na 5 minut. Po tym czasie spróbuj zalogować się ponownie lub zmień hasło.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090133">Twoje konto zostało zablokowane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090134">Błędne logowanie. Sprawdź e-mail i hasło i spróbuj ponownie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090135">Logowanie nieudane. Facebook nie udostępnił adresu e-mail. Użyj innej metody logowania.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090136">Wystąpił błąd podczas logowania poprzez facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090137">Zapomniałeś hasła?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090138">Logowanie nieudane. G+ nie udostępnił adresu e-mail. Użyj innej metody logowania.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090139">Wystąpił błąd podczas logowania poprzez google plus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013a">Nie masz jeszcze konta?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013b">Zarejestuj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013d">ZALOGUJ SIĘ Z FACEBOOK</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013e">ZALOGUJ SIĘ Z GOOGLE+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013f">zaloguj się za pomocą Twojego e-maila</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090140">ZALOGUJ SIĘ E-MAILEM</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090141">Karty aktywne</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090142">Nie masz jeszcze żadnej karty. Zapraszamy do zakładki Nieaktywne karty.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090143">Karty nieaktywne</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090144">Brak kart lojalnościowych</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090145">Karty lojalnościowe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090146">Co zyskujesz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090147">więcej…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090148">To oświadczenie jest wymagane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090149">Co zyskujesz z kartą?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014a">Pokaż wszystkie marki…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014b">Marki ze zniżkami</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014c">Okazje z kartą</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014d">Załóż kartę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014e">Korzyści z założenia karty</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014f">"Zakładasz w minutę, korzystasz
+od razu, karta zawsze w telefonie."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090150">Karta stałego klienta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090151">Zarejestruj kartę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090152">Ten adres mailowy jest już zajęty.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090153">"Twoja %1$s
+została zarejestrowana"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090154">Karta lojalnościowa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090155">"Kartę możesz zobaczyć w każdej
+chwili na %1$s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090156">Wróć do okazji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090157">profilu %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090159">Zobacz kartę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015a">Odbierz kartę teraz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015b">Wprowadź prawidłowe dane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015c">Nawiguj - %1$s km</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015d">Nawiguj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015e">"%1$s km
+pokaż drogę"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015f">pokaż drogę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090160">Lista galerii w:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090161">Twoje preferencje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090162">Nawiguj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090163">Sklepy %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090164">Okazje w okolicy</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090165">Okazje w okolicy z kategorii %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090167">Dzisiaj %1$s - %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090168">Zmieniłeś już hasło?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090169">Zaloguj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016a">Na adres %1$s wysłaliśmy e-maila z linkiem. Kliknij w niego, aby nadać nowe hasło.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016b">Ze względów technicznych prosimy Cię o nadanie nowego hasła do goodie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016c">Nadaj nowe hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016d">Momenty</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090173">Wstecz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090174">ZATWIERDŹ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090175">Nowe hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090176">Powtórz hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090177">Ustal nowe hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090178">Nie masz archiwalnych okazji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090179">Obserwuj marki, które lubisz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017a">Zacznij obserwować marki, by otrzymywać powiadomienia o ich nowych okazjach</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017b">Nie masz zapisanych okazji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017c">Nie masz okazji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017d">Obserwuj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017e">LISTA WSZYSTKICH MAREK</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017f">Marki, które obserwujesz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090181">Brak aktualnych okazji dla tej marki</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090183">PROPOZYCJE MAREK, KTÓRE MOŻESZ OBSERWOWAĆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090184">Propozycje marek, które możesz obserwować:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090185">Godziny otwarcia:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090186">Dziś %1$s - %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090187">lub</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090188">Pozostałe centra handlowe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018a">"Wyraź zgodę na lokalizację, aby z
+łatwością sprawdzać najlepsze
+okazje wokół Ciebie."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018b">Jeszcze nie wyraziłeś zgody na lokalizację. Włącz lokalizację, aby z łatwością sprawdzać najlepsze okazje wokół Ciebie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018c">Nie teraz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018d">Najlepsze okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018e">"
+w Twojej okolicy"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018f">Włącz lokalizację</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090190">Otrzymuj informacje o nowościach w Twoich ulubionych markach i o najlepszych okazjach na swój e-mail.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090192">Otrzymuj powiadomienia</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090193">Włącz powiadomienia</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090194">ZAPISZ MIASTO</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090195">Wpisz swoje miasto…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090196">…lub wybierz jedno z najpopularniejszych miast:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090197">Twoje miasto</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090198">GOTOWE!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090199">Wybierzemy okazje pasujące do Ciebie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019a">Co lubisz?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019b">Przypięte centra handlowe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019f">Polityka prywatności</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a0">DATA URODZENIA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a1">Zmień hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a2">UŻYTKOWNIK</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a4">Nowe hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a5">Powtórz nowe hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a6">Aktualne hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a7">TWÓJ NICK</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a8">Hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901aa">ZAPISZ ZMIANY</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ab">PŁEĆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ac">profil</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ae">Edycja profilu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901af">Oceń</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b0">Oceń aplikację</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b1">Dodatkowy komentarz…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b2">Komentarz jest obowiązkowy</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b3">Adres email</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b4">Jeżeli chcesz abyśmy odpowiedzieli na Twój komentarz, będziemy potrzebowali Twój adres email:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b5">Nie znalazłem ciekawych okazji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b6">Aplikacja działa niepoprawnie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b7">Nie podoba mi się wygląd aplikacji</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b8">OCEŃ W SKLEPIE</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b9">"Cieszymy się,że jesteś z nami!
+Powiedz nam jak oceniasz aplikację goodie."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ba">Oceń później</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901bb">Opinia została wysłana</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901bc">Jak oceniasz aplikację goodie?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901bd">Z czego wynika taka ocena?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901be">Zapisz ocenę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901bf">Wyślij opinię</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c0">Dziękujemy za Twoją ocenę! Podziel się swoją opinią z innymi użytkownikami.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c1">Ocen: %1$d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c2">Oceń okazję</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c3">show less</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c4">show more</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c5">Data urodzenia</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c6">Masz już konto?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c8">Płeć</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c9">Zaloguj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ca">Imię</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901cc">Hasło</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901cd">Telefon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901cf">Ukryj</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d0">Czytaj więcej</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d1">Nazwisko</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d2">zarejestruj się z użyciem adresu e-mail</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d3">ZAREJESTRUJ SIĘ PRZEZ E-MAIL</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d4">Zarejestruj się z facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d5">Zarejestruj się z google+</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d6">Kod pocztowy</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d7">ZAPISANE OKAZJE</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d8">Szukaj okazji…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d9">Nie mamy okazji dla tego wyszukiwania. Zmień kryteria wyszukiwania lub sprawdź dostępne okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901da">Zobacz okazje Dla Ciebie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901db">Sklepy stacjonarne</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901dc">Sklepy online</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901dd">Wyszukiwanie:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901de">Wybrane kategorie: %d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901df">Wyślij</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e0">Wystąpił błąd podczas połączenia z serwerem</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e2">Wystąpił błąd podczas aktualizacji danych</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e3">Dane zostały zaktualizowane</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e5">ZGODA NA NEWSLETTER</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e6">ADRES WYSYŁKI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e7">CZĘSTOTLIWOŚĆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ea">Nick powinien mieć co najmniej 3 znaki</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901eb">Nie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ec">Podane hasło jest błędne</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ed">Hasło zostało zmienione</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ee">Hasła różnią się</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ef">Hasło powinno zawierać więcej niż 5 znaków.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f1">Zapisz ustawienia</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f2">Tak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f6">Dodaj markę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f7">Wybierz sklepy</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f8">Okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f9">Sklepy</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901fa">Zamknięte</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901fc">Lokalizacja:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901fd">Więcej</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ff">Otwarte</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090200">Przypnij</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090203">Odepnij</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090204">Hity w %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090206">"UŻYJ @ NA KAFELKU OKAZJI
+ABY ZAPISAĆ OFERTĘ I
+UŻYWAĆ JEJ GDZIEKOLWIEK ZECHCESZ"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090207">"Nie masz zapisanych okazji
+dostępnych w %1$s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090209">"Użyj przycisku 'Zapisz' na
+kafelku z okazją, aby dodać ją do
+listy zapisanych okazji."</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020a">Zapisane w %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020c">Filtruj po markach lub galeriach</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020d">Wybierz usługi dodatkowe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020e">Pokaż galerie (%1$s)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020f">www:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090210">Pomiń</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090212">Wiek</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090213">99+ lat</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090214">Kobieta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090215">Płeć</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090216">Mężczyzna</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090217">Pokaż</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090218">"Zobacz %1$s
+w kategorii %2$s
+w galerii %3$s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021a">Restauracje w pobliżu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021b">Pokaż okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021c">Zobacz na </string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021d">mapie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021e">Obserwujesz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021f">Regulamin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090220">Adres %1$s jest już w bazie wysyłkowej newslettera</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090224">Potwierdź swoje zgłoszenie za pomocą przesłanego linka.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090228">Dziękujemy.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022a">Dodano markę do obserwowanych</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022b">Usunięto markę z obserwowanych</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022c">Podaj nazwę centrum…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022d">OBSERWUJESZ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022f">"Wydarzenia w galeriach
+w:"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090230">Zamknij</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090231">Nie, dziękuję</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090232">Przypomnij później</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090233">Aktualizuj teraz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090234">Wprowadź poprawny adres email</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090235">OSTATNIO OGLĄDANE OKAZJE</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090236">Ułatwi Ci to logowanie do goodie oraz da dostęp do okazji specjalnych.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090237">"Czy zweryfikować Twój profil "</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090238">" za pomocą konta w Banku Millennium?"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090239">POTWIERDŹ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023c">Pomiń</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023d">"Dodaj opinię
+do swojej oceny"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023e">Napisz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023f">Czy chcesz napisać komentarz?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090240">Dziękujemy za Twoją ocenę</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090241">Napisz recenzję</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090242">%1$d marek</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090243">sans-serif</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090244">sans-serif-medium</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090245">sans-serif-medium</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090246">sans-serif</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090247">sans-serif</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090248">sans-serif</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090249">sans-serif</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024a">sans-serif-light</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024b">sans-serif</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024c">sans-serif</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024d">sans-serif</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024e">sans-serif-medium</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090250">Ładowanie…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090251">Goodie</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090252">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090253">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090254">%1$d okazje</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090256">Broker is processing</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090257">%1$d / %2$d</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090258">Confirm your code on Facebook.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090259">1.\u0009Go to the Menu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025a">2.\u0009Select Device Requests</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025b">3.\u0009Confirm code.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025c">- OR -</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025d">Not you?</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025e">Continue as %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025f">Confirm Login</string>
+    <string name="default_web_client_id">223718994598-fgh59rk8jg0onng0r2f3sqbj796n7p34.apps.googleusercontent.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090262">Nie udało się dodać okazji do zapisanych. Błąd komunikacji z goodie, spróbuj ponownie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090263">Nie udało się usunąć marki z obserwowanych. Błąd komunikacji z goodie, spróbuj ponownie.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090265">Miscellaneous</string>
+    <string name="firebase_database_url">https://goodie-147712.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">223718994598</string>
+    <string name="google_api_key">AIzaSyDPQkiB_jkIE91X1NK2HKagJOQ3AyQUm-w</string>
+    <string name="google_app_id">1:223718994598:android:591871115d38a541</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDPQkiB_jkIE91X1NK2HKagJOQ3AyQUm-w</string>
+    <string name="google_storage_bucket">goodie-147712.appspot.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09026e">"%1$s
+%2$s - %3$s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09026f">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090270">Login</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090271">Password</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090272">Enter your credentials</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090273">Username</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090274">Toggle password visibility</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090275">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090276">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090277">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090278">M3.27,4.27 L19.74,20.74</string>
+    <item type="string" name="APKTOOL_DUMMY_83">false</item>
+    <item type="string" name="APKTOOL_DUMMY_85">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86">false</item>
+    <item type="string" name="APKTOOL_DUMMY_87">false</item>
+    <item type="string" name="APKTOOL_DUMMY_88">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_103">false</item>
+    <item type="string" name="APKTOOL_DUMMY_116">false</item>
+    <item type="string" name="APKTOOL_DUMMY_117">false</item>
+    <item type="string" name="APKTOOL_DUMMY_118">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_158">false</item>
+    <item type="string" name="APKTOOL_DUMMY_166">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_170">false</item>
+    <item type="string" name="APKTOOL_DUMMY_171">false</item>
+    <item type="string" name="APKTOOL_DUMMY_172">false</item>
+    <item type="string" name="APKTOOL_DUMMY_180">false</item>
+    <item type="string" name="APKTOOL_DUMMY_182">false</item>
+    <item type="string" name="APKTOOL_DUMMY_189">false</item>
+    <item type="string" name="APKTOOL_DUMMY_191">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_201">false</item>
+    <item type="string" name="APKTOOL_DUMMY_202">false</item>
+    <item type="string" name="APKTOOL_DUMMY_205">false</item>
+    <item type="string" name="APKTOOL_DUMMY_208">false</item>
+    <item type="string" name="APKTOOL_DUMMY_20b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_211">false</item>
+    <item type="string" name="APKTOOL_DUMMY_219">false</item>
+    <item type="string" name="APKTOOL_DUMMY_221">false</item>
+    <item type="string" name="APKTOOL_DUMMY_222">false</item>
+    <item type="string" name="APKTOOL_DUMMY_223">false</item>
+    <item type="string" name="APKTOOL_DUMMY_225">false</item>
+    <item type="string" name="APKTOOL_DUMMY_226">false</item>
+    <item type="string" name="APKTOOL_DUMMY_227">false</item>
+    <item type="string" name="APKTOOL_DUMMY_229">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_24f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_255">false</item>
+    <item type="string" name="APKTOOL_DUMMY_261">false</item>
+    <item type="string" name="APKTOOL_DUMMY_264">false</item>
+    <item type="string" name="APKTOOL_DUMMY_268">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26c">false</item>
+</resources>

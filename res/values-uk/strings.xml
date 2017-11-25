@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Перейти на головний</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Перейти вгору</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Інші опції</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Готово</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Переглянути всі</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Вибрати програму</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ВИМК.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">УВІМК.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Пошук…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Очистити запит</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Пошуковий запит</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Надіслати запит</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Голосовий пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Надіслати через</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Надіслати через %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Згорнути</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Увімкнути</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Увімкнути сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Установити</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Установити сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Помилка сервісів Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Оновити</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">Додаток %1$s не працюватиме, якщо не оновити сервіси Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Оновіть сервіси Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">Додаток %1$s не працюватиме без сервісів Google Play, які зараз оновлюються.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Відкрити на телефоні</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Увійти</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Увійти в облік. запис Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Очистити поле пошуку</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

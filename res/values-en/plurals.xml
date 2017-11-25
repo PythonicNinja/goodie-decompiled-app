@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0000">
+        <item quantity="other">%d actives</item>
+        <item quantity="zero">%d active</item>
+        <item quantity="one">%d active</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0001">
+        <item quantity="other">%d bargains</item>
+        <item quantity="one">%d bargain</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0002">
+        <item quantity="other">%d occasions</item>
+        <item quantity="one">%d occasion</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0004">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0005">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0006">
+        <item quantity="other">offers</item>
+        <item quantity="one">offer</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0007">
+        <item quantity="other">%d of saved</item>
+        <item quantity="one">%d saved</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0008">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0009">
+        <item quantity="other">%d years</item>
+        <item quantity="one">%d year</item>
+    </plurals>
+</resources>

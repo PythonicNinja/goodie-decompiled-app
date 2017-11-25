@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">ಮುಖಪುಟವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">ಮುಗಿದಿದೆ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">ಎಲ್ಲವನ್ನೂ ನೋಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">ಒಂದು ಅಪ್ಲಿಕೇಶನ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ಆಫ್</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ಆನ್</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">ಹುಡುಕಿ…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">ಹುಡುಕಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">ಧ್ವನಿ ಹುಡುಕಾಟ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">%s ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">ಸಂಕುಚಿಸು</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">ಹುಡುಕಿ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

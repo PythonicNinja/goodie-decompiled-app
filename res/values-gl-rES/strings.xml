@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Ir á páxina de inicio</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Desprazarse cara arriba</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Máis opcións</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Feito</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Ver todas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Escoller unha aplicación</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">DESACTIVAR</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ACTIVAR</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Buscar…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Borrar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Consulta de busca</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Buscar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Enviar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Busca de voz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Compartir con</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Compartir con %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Contraer</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Buscar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">>999</string>
+</resources>

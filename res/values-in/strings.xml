@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Navigasi ke beranda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navigasi naik</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Opsi lain</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Selesai</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Lihat semua</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Pilih aplikasi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">NONAKTIF</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">AKTIF</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Telusuri...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Hapus kueri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Kueri penelusuran</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Telusuri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Kirim kueri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Penelusuran suara</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Bagikan dengan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Bagikan dengan %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Ciutkan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Aktifkan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Aktifkan layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Pasang</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Dapatkan layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Kesalahan layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s mengalami masalah dengan layanan Google Play. Coba lagi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Perbarui</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Perbarui layanan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Buka di ponsel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Masuk</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Masuk dengan Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">Kirim</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Hapus penelusuran</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Telusuri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Telusuri</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

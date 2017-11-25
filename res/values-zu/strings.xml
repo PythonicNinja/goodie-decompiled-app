@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Zulazulela ekhaya</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Zulazulela phezulu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Izinketho eziningi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Kwenziwe</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Buka konke</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Khetha uhlelo lokusebenza</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">VALIWE</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">VULIWE</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Iyasesha...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Sula inkinga</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Umbuzo wosesho</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Sesha</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Hambisa umbuzo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Ukusesha ngezwi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Yabelana no-</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Yabelana no-%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Goqa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Nika amandla</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">I-%1$s ngeke isebenze ngaphandle kokuthi unike amandla amasevisi we-Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Nika amandla amasevisi we-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Faka</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">I-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, angekho kusukela kudivayisi yakho.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Thola amasevisi we-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Iphutha lamasevisi we-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s inenkinga ngamasevisi e-Google Play. Sicela uzame futhi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s ngeke isebenze ngaphandle kwamasevisi e-Google Play, angasekelwa idivayisi yakho.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Isibuyekezo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">I-%1$s ngeke ize iqalise ngaphandle kokuthi ubuyekeze i-Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Buyekeza amasevisi we-Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">I-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, okwamanje abuyekezwayo.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Kudingeka inguqulo entsha yamasevisi we-Google Play. Izozibuyekeza ngokwayo maduze.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Vula kufoni</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Ngena ngemvume</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Ngena ngemvume nge-Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Sula usesho</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Sesha</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Sesha</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

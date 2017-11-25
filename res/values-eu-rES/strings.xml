@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Joan orri nagusira</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Joan gora</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Aukera gehiago</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Eginda</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Ikusi guztiak</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Aukeratu aplikazio bat</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">DESAKTIBATUTA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">AKTIBATUTA</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Bilatu…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Garbitu kontsulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Bilaketa-kontsulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Bilatu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Bidali kontsulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Ahots bidezko bilaketa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Partekatu hauekin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Partekatu %s erabiltzailearekin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Tolestu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Bilatu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

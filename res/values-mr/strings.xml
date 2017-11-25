@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090013">आपला स्‍मार्ट फोन किंवा संगणकावर &lt;b>facebook.com/device&lt;/b> ला भेट द्या आणि हा कोड प्रविष्‍ट करा:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">प्रतिमा डाउनलोड करताना अनपेक्षित त्रुटी.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">वेबदृश्य लॉग इन आवश्यकता इंटरनेट परवानगी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">AndroidManifest त्रुटी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">आवडलेले</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">आवडले</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">लोड होत आहे…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001a">रद्द करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001b">लॉग इन करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001c">Facebook सह चालू ठेवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">फेसबुकसह लॉग इन करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">लॉग आउट करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">लॉग आउट करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">म्हणून लॉग इन केले: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">फेसबुक वापरून लॉग इन केले</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">पाठवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">सामायिक करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">तुम्ही नियंत्रणात आहात - तुम्ही कोणती माहिती अॅपसह सामायिक करू इच्छिता ते निवडा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">सक्षम करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">आपण Google Play सेवा सक्षम केल्याशिवाय %1$s हा अॅप कार्य करणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play सेवा सक्षम करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">स्‍थापित करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Google Play सेवा आपल्या डिव्हाइसवर उपलब्ध नाही, त्याशिवाय %1$s चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play सेवा मिळवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Play सेवा त्रुटी</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s ला Google Play सेवांमध्ये समस्या येत आहे. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">आपले डिव्हाइस समर्थन देत नसलेल्या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">अद्यतनित करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">आपण Google Play सेवा अद्यतनित करेपर्यंत %1$s चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play सेवा अद्यतनित करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">सध्‍या अद्यतनित होत असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play सेवांच्या नवीन आवृत्तीची आवश्यकता आहे. हे स्वत:ला लवकरच अद्यतनित करेल.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">फोनवर उघडा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">साइन इन करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google सह साइन इन करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">पाठवा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">शोध साफ करा</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">शोध</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Orientohu për në shtëpi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Ngjitu lart</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Opsione të tjera</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">U krye!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Shikoji të gjitha</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Zgjidh një aplikacion</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">JOAKTIV</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">AKTIV</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Kërko...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Pastro pyetjen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Kërko pyetjen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Kërko</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Dërgo pyetjen</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Kërkim me zë</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Shpërnda publikisht me</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Shpërnda publikisht me %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Shpalos</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Kërko</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

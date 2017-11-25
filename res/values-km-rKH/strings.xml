@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">រកមើល​ទៅ​ដើម</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">រកមើល​ឡើងលើ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">ជម្រើស​ច្រើន​ទៀត</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">រួចរាល់</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">មើល​ទាំងអស់</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">ជ្រើស​កម្មវិធី​​</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">បិទ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">បើក</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">ស្វែងរក…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">សម្អាត​សំណួរ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">ស្វែងរក​សំណួរ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">ស្វែងរក</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">ដាក់​​​ស្នើ​សំណួរ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">ការស្វែងរក​សំឡេង</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">ចែករំលែក​ជាមួយ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">ចែករំលែក​ជាមួយ %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">បង្រួម</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">ស្វែងរក</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

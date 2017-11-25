@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">ወደ መነሻ ይዳስሱ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s፣ %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s፣ %2$s፣ %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">ወደ ላይ ይዳስሱ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">ተጨማሪ አማራጮች</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">ተከናውኗል</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">ሁሉንም ይመልከቱ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">መተግበሪያ ይምረጡ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ጠፍቷል</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">በርቷል</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">ፈልግ…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">መጠይቅ አጽዳ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">የፍለጋ ጥያቄ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">ፍለጋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">መጠይቅ ያስረክቡ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">የድምፅ ፍለጋ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">ከሚከተለው ጋር ያጋሩ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">ከ%s ጋር ያጋሩ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">ሰብስብ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">አንቃ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">Google Play አገልግሎቶችን ካላነቁ በስተቀር %1$s አይሰራም።</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play አገልግሎቶችን ያንቁ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">ጫን</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በመሣሪያዎ ላይ የሉም።</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play አገልግሎቶችን ያግኙ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">የGoogle Play አገልግሎቶች ስህተት</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s በGoogle Play አገልግሎቶች ላይ ችግሮች እያጋጠሙት ነው። እባክዎ እንደገና ይሞክሩ።</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s ያለGoogle Play አገልግሎቶች አይሄድም፣ እነዚህም በመሣሪያዎ አይደገፉም።</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">ያዘምኑ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">Google Play አገልግሎቶችን ካላዘመኑ በስተቀር ድረስ %1$s አይሰራም።</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play አገልግሎቶችን ያዘምኑ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በአሁኑ ጊዜ በመዘመን ላይ ናቸው።</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">አዲስ የGoogle Play አገልግሎቶች ስሪት ያስፈልጋል። በቅርቡ እራሱን ያዘምናል።</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">ስልክ ላይ ክፈት</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">ግባ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">በGoogle ይግቡ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">ፍለጋን አጽዳ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">ይፈልጉ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">ፈልግ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

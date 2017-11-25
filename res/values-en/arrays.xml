@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f0a0001">
+        <item>Max once a day</item>
+        <item>Max once a week</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f0a0002">
+        <item>Warszawa</item>
+        <item>Gdańsk</item>
+        <item>Wrocław</item>
+        <item>Poznań</item>
+        <item>Katowice</item>
+        <item>Kraków</item>
+        <item>Łódź</item>
+    </string-array>
+    <string-array name="APKTOOL_DUMMYVAL_0x7f0a0003">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+</resources>

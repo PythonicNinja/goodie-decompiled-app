@@ -1,0 +1,103 @@
+.class final Lo/ᵔ$ˋ;
+.super Ljava/lang/Object;
+.source ""
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lo/ᵔ;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x8
+    name = "\u02cb"
+.end annotation
+
+
+# instance fields
+.field final ˊ:Ljava/util/ArrayDeque;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/Queue<Lo/\u1d54$\u02ca;>;"
+        }
+    .end annotation
+.end field
+
+
+# direct methods
+.method private constructor <init>()V
+    .locals 1
+
+    .line 68
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 70
+    new-instance v0, Ljava/util/ArrayDeque;
+
+    invoke-direct {v0}, Ljava/util/ArrayDeque;-><init>()V
+
+    iput-object v0, p0, Lo/ᵔ$ˋ;->ˊ:Ljava/util/ArrayDeque;
+
+    return-void
+.end method
+
+.method synthetic constructor <init>(B)V
+    .locals 0
+
+    .line 68
+    invoke-direct {p0}, Lo/ᵔ$ˋ;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method final ˏ()Lo/ᵔ$ˊ;
+    .locals 3
+
+    .line 74
+    iget-object v2, p0, Lo/ᵔ$ˋ;->ˊ:Ljava/util/ArrayDeque;
+
+    monitor-enter v2
+
+    .line 75
+    :try_start_0
+    iget-object v0, p0, Lo/ᵔ$ˋ;->ˊ:Ljava/util/ArrayDeque;
+
+    invoke-interface {v0}, Ljava/util/Queue;->poll()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v1, v0
+
+    check-cast v1, Lo/ᵔ$ˊ;
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_0
+
+    .line 76
+    monitor-exit v2
+
+    goto :goto_0
+
+    :catchall_0
+    move-exception v1
+
+    monitor-exit v2
+
+    throw v1
+
+    .line 77
+    :goto_0
+    if-nez v1, :cond_0
+
+    .line 78
+    new-instance v1, Lo/ᵔ$ˊ;
+
+    const/4 v0, 0x0
+
+    invoke-direct {v1, v0}, Lo/ᵔ$ˊ;-><init>(B)V
+
+    .line 80
+    :cond_0
+    return-object v1
+.end method

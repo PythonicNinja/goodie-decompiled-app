@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">Ralat tidak dijangka ketika memuat turun imej.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">Log masuk WebView memerlukan kebenaran INTERNET</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">Ralat AndroidManifest</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">Disukai</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">Suka</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">Memuatkan…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001a">Batal</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001b">Log masuk</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001c">Teruskan dengan Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">Log masuk dengan Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">Log keluar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">Log keluar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">Dilog masuk sebagai: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">Dilog masuk menggunakan Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">Hantar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">Kongsi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">Anda yang mengawal - pilih maklumat yang anda ingin kongsi dengan apl.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Dayakan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Dayakan perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Pasang</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Dapatkan perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Ralat perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Kemas kini</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Buka pada telefon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Log masuk</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Log masuk dengan Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">Hantar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Kosongkan carian</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Cari</string>
+</resources>

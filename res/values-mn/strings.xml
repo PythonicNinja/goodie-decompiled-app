@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Идэвхжүүлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Суулгах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">Таны төхөөрөмжид Google Play үйлчилгээ байхгүй тул %1$s ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Google Play үйлчилгээг авах</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">Таны төхөөрөмж Google Play үйлчилгээг дэмждэггүй учир %1$s ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Шинэчлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Утсаар нээх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Нэвтрэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Google-р нэвтрэх:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Хайлтыг цэвэрлэх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Хайх</string>
+</resources>

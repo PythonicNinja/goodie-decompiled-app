@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Navigasi skrin utama</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navigasi ke atas</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Lagi pilihan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Selesai</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Lihat semua</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Pilih apl</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">MATI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">HIDUP</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Cari…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Kosongkan pertanyaan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Pertanyaan carian</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Cari</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Serah pertanyaan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Carian suara</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Kongsi dengan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Kongsi dengan %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Runtuhkan</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Cari</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0000">
+        <item quantity="other">%d aktywnych</item>
+        <item quantity="zero">%d aktywnych</item>
+        <item quantity="one">%d aktywna</item>
+        <item quantity="two">%d aktywne</item>
+        <item quantity="few">%d aktywne</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0001">
+        <item quantity="other">%d okazji</item>
+        <item quantity="one">%d okazję</item>
+        <item quantity="few">%d okazje</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0002">
+        <item quantity="other">%d okazji</item>
+        <item quantity="one">%d okazja</item>
+        <item quantity="few">%d okazje</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0004">
+        <item quantity="other">%d godzin</item>
+        <item quantity="zero">%d godzin</item>
+        <item quantity="one">%d godzinę</item>
+        <item quantity="few">%d godziny</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0005">
+        <item quantity="other">%d minut</item>
+        <item quantity="zero">%d minut</item>
+        <item quantity="one">%d minutę</item>
+        <item quantity="few">%d minuty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0006">
+        <item quantity="other">okazji</item>
+        <item quantity="one">okazja</item>
+        <item quantity="few">okazje</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0007">
+        <item quantity="other">%d zapisanych</item>
+        <item quantity="one">%d zapisana</item>
+        <item quantity="two">%d zapisane</item>
+        <item quantity="few">%d zapisane</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0008">
+        <item quantity="other">%d sekund</item>
+        <item quantity="zero">%d sekund</item>
+        <item quantity="one">%d sekundę</item>
+        <item quantity="few">%d sekundy</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0b0009">
+        <item quantity="other">%d lat</item>
+        <item quantity="zero">%d lat</item>
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d lata</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_3">false</item>
+</resources>

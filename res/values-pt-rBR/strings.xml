@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Navegar para a página inicial</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navegar para cima</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Mais opções</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Concluído</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Ver tudo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Selecione um app</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">DESATIVAR</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ATIVAR</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Pesquisar...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Limpar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Consulta de pesquisa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Pesquisar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Enviar consulta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Pesquisa por voz</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Compartilhar com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Compartilhar com %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Recolher</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Ativar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Ativar o Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Instalar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Instalar o Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Erro do Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Atualizar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Atualizar o Google Play Services</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Abrir no smartphone</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Fazer login</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Fazer login com o Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Limpar pesquisa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Pesquisar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Pesquisar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">999+</string>
+</resources>

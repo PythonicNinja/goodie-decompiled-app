@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Navigați la ecranul de pornire</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navigați în sus</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Mai multe opțiuni</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Terminat</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Afișați-le pe toate</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Alegeți o aplicație</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">DEZACTIVAȚI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">ACTIVAȚI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Căutați…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Ștergeți interogarea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Interogare de căutare</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Căutați</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Trimiteți interogarea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Căutare vocală</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Trimiteți la</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Trimiteți la %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Restrângeți</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Activați</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Activați serviciile Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Instalați</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul dvs.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Descărcați serviciile Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Eroare a serviciilor Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Actualizați</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Actualizați serviciile Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Deschideți pe telefon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Conectați-vă</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Conectați-vă cu Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Ștergeți căutarea</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Căutați</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Căutați</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">˃999</string>
+</resources>

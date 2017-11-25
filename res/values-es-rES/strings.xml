@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090013">Visita &lt;b>facebook.com/device&lt;/b> en tu smartphone o computadora e ingresa este código:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">Error inesperado al descargar una imagen.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">El inicio de sesión de WebView requiere permiso para INTERNET</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">Error de AndroidManifest</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">Te gusta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">Me gusta</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">Cargando…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001a">Cancelar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001b">Inicio de sesión</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001c">Continuar con Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">Iniciar sesión con Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">Salir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">Salir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">Sesión iniciada como: %1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">Sesión iniciada con Facebook</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">Enviar</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">Compartir</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">Tú tienes el control: elige la información que quieres compartir con las aplicaciones.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">Enviar</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0036" parent="@style/APKTOOL_DUMMYVAL_0x7f0d00b7">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0037" parent="@android:style/Widget">
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:paddingEnd">8.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0038" parent="@android:style/Widget">
+        <item name="android:layout_marginEnd">8.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0039" parent="@android:style/Widget">
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d003a" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d003b" parent="@android:style/Widget">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d003c" parent="@android:style/Widget">
+        <item name="android:paddingStart">@dimen/APKTOOL_DUMMYVAL_0x7f0c0042</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d003d" parent="@android:style/Widget">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d003e" parent="@android:style/Widget">
+        <item name="android:layout_toStartOf">@id/APKTOOL_DUMMYVAL_0x7f11009d</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d003f" parent="@android:style/Widget">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0040" parent="@style/APKTOOL_DUMMYVAL_0x7f0d0078">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0041" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">@dimen/APKTOOL_DUMMYVAL_0x7f0c0042</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0042" parent="@android:style/Widget">
+        <item name="android:paddingStart">12.0dip</item>
+        <item name="android:paddingEnd">12.0dip</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0043" parent="@style/APKTOOL_DUMMYVAL_0x7f0d006e">
+        <item name="android:paddingStart">@dimen/APKTOOL_DUMMYVAL_0x7f0c002a</item>
+        <item name="android:paddingEnd">@dimen/APKTOOL_DUMMYVAL_0x7f0c0029</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0126">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:textAlignment">center</item>
+        <item name="font">fonts/Montserrat-Light.ttf</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f0d0231">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/APKTOOL_DUMMYVAL_0x7f10006b</item>
+        <item name="android:padding">@dimen/APKTOOL_DUMMYVAL_0x7f0c0103</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textAlignment">center</item>
+        <item name="font">fonts/Montserrat-Regular.ttf</item>
+    </style>
+</resources>

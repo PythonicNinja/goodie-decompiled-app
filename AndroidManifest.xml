@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="pl.goodie.prd" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <permission android:name="pl.goodie.prd.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="pl.goodie.prd.permission.C2D_MESSAGE"/>
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-feature android:glEsVersion="0x00020000" android:required="true"/>
+    <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:installLocation="internalOnly" android:label="@string/APKTOOL_DUMMYVAL_0x7f090251" android:name="pl.diliu.GoodieApp" android:supportsRtl="true" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d00b1">
+        <meta-data android:name="net.hockeyapp.android.appIdentifier" android:value="40a098305bd048df823390ae387b9dca"/>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="\ 910833405714584"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDPQkiB_jkIE91X1NK2HKagJOQ3AyQUm-w"/>
+        <meta-data android:name="pl.diliu.OkHttpGlideModule" android:value="GlideModule"/>
+        <activity android:launchMode="singleTop" android:name="pl.diliu.ui.PersonalizationActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="goodie.pl" android:pathPattern="/Discount/SharedDiscount*" android:scheme="http"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="goodie.pl" android:pathPattern="/Discount/SharedDiscount*" android:scheme="https"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="pl.diliu.ui.HomeActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.map.MapActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.LocalizationActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d01d4" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.userprofile.ChangePasswordActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d01d4" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.rate.RateAppActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d01d4" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.rate.RateDiscountActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d01d4" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.userprofile.ProfileActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.contact.ContactFormActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="com.microsoft.aad.adal.AuthenticationActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.OfferDetailsActivity" android:parentActivityName="pl.diliu.ui.HomeActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.flyerdetails.FlyerViewerActivity" android:parentActivityName="pl.diliu.ui.HomeActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.branddetails.BrandDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.malldetails.shopdetails.BrandInMallDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.brands.BrandsActivity" android:parentActivityName="pl.diliu.ui.HomeActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.malldetails.ShoppingMallDetailsActivity" android:parentActivityName="pl.diliu.ui.HomeActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.SavedDiscountsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.rate.CommentDiscountActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.VoiceActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.InfoDialogActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d01d4" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.WelcomeActivity" android:screenOrientation="portrait"/>
+        <activity android:name="o.wc" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.privacypolicy.PrivacyPolicyActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.termsconditions.TermsConditionsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.faq.FaqActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.permissions.AskPermissionActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.permissions.AskLocPermissionActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.PersonalizationCityActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d01d4"/>
+        <activity android:launchMode="singleTop" android:name="pl.diliu.ui.PersonalizationCategoriesActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.MainViewSettingsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.registerandlogin.RegistrationActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name="pl.diliu.ui.registerandlogin.LoginUserActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name="pl.diliu.ui.registerandlogin.ForgotPasswordActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name="pl.diliu.ui.search.SearchSuggestionsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.search.SearchCitySuggestionsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.registerandlogin.MigrationInfoActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:name="pl.diliu.ui.malls.MallListWithFilterActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.malls.MallListActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.malls.ShoppingMallPreferenceActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.malls.PredefinedMallFiltersActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.malldetails.SavedOffersActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:name="pl.diliu.ui.events.DefaultSpecialEventActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.events.GiftSpecialEventActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.events.NearListSpecialEventActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.events.NearSpecialEventActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.events.CategoryOnMapSpecialEventActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.brands.BrandNewOccasionsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.loyalty.registration.RegisterStepZeroActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.loyalty.registration.RegisterStepFirstActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.loyalty.registration.RegisterCardActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.loyalty.registration.RegisterCardSuccessActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.loyalty.CardDetailsActivity" android:screenOrientation="sensorLandscape"/>
+        <activity android:name="pl.diliu.ui.loyalty.landingpage.LandingPageActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.loyalty.landingpage.AllBrandsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.loyalty.allcards.AllCardsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.DefaultDialogActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d01d4"/>
+        <activity android:name="pl.diliu.ui.DefaultWebViewActivity" android:screenOrientation="portrait"/>
+        <activity android:name="pl.diliu.ui.discountdetails.DiscountDetailsHorizontalActivity" android:screenOrientation="sensorLandscape"/>
+        <service android:name="o.pp" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:name="o.rD"/>
+        <activity android:name="pl.diliu.ui.registerandlogin.NewPasswordActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="goodie.pl" android:pathPattern="/Homepage/ResetPassword*" android:scheme="http"/>
+                <data android:host="goodie.pl" android:pathPattern="/Homepage/ResetPassword*" android:scheme="https"/>
+            </intent-filter>
+        </activity>
+        <service android:name="pl.diliu.fcm.GoodieFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:name="pl.diliu.fcm.GoodieFirebaseInstanceIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="pl.diliu.geolocation.GeofenceTransitionsIntentService"/>
+        <service android:name="pl.diliu.services.DownloadDiscountService"/>
+        <service android:name="pl.diliu.services.DownloadProgramService"/>
+        <service android:enabled="true" android:name="pl.diliu.geolocation.GeofenceRegistrationIntentService"/>
+        <receiver android:enabled="true" android:name="com.google.android.gms.analytics.AnalyticsReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.google.android.gms.analytics.CampaignTrackingReceiver">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:name="pl.diliu.receivers.PowerOnBroadcastReceiver" android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:name="pl.diliu.receivers.ProviderChangedBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.location.PROVIDERS_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:name="o.qT"/>
+        <service android:enabled="true" android:exported="false" android:name="o.ȉ"/>
+        <service android:name="o.ɭ"/>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <receiver android:enabled="true" android:exported="true" android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="o.bM" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="true" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="pl.goodie.prd"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="o.cZ"/>
+        <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="pl.goodie.prd.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="o.dC"/>
+        <receiver android:name="com.microsoft.aad.adal.ApplicationReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_INSTALL"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name="o.jy"/>
+        <activity android:name="o.jn"/>
+        <activity android:name="o.ju"/>
+        <activity android:name="o.jq"/>
+        <activity android:name="o.jl"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="11011000"/>
+        <meta-data android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule" android:value="GlideModule"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:name="o.ז" android:theme="@style/APKTOOL_DUMMYVAL_0x7f0d0232"/>
+        <activity android:name="o.ג"/>
+        <provider android:authorities="pl.goodie.prd.FacebookInitProvider" android:exported="false" android:name="o.ſ"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <service android:exported="true" android:name="com.google.android.gms.auth.api.signin.RevocationBoundService" android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"/>
+        <activity android:exported="false" android:name="o.ܕ" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="android.support.VERSION" android:value="25.4.0"/>
+    </application>
+</manifest>

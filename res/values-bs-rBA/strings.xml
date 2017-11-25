@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Vrati se na početnu stranicu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Navigiraj prema gore</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Više opcija</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Završeno</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Vidi sve</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Odaberite aplikaciju</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ISKLJUČI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">UKLJUČI</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Pretraži...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Obriši upit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Pretraži upit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Traži</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Pošalji upit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Pretraživanje glasom</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Podijeli sa</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Podijeli sa %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Skupi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Pretraži</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">>999</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Aktivizo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\".</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Aktivizo shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Instalo</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat mungojnë në pajisjen tënde.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Merr shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Gabim në shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">%1$s ka probleme me shërbimet e Google Play. Provo sërish.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s nuk do të funksionojë pa shërbimet e Google Play, të cilat nuk mbështeten nga pajisja jote.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Përditëso</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s nuk do të funksionojë nëse nuk përditëson shërbimet e \"Luaj me Google\".</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Përditëso shërbimet e \"Luaj me Google\"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat po përditësohen aktualisht.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Nevojitet një version i ri i shërbimeve të \"Luaj me Google\". Ai do të përditësohet automatikisht së shpejti.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Hape në telefon</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Identifikohu</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Identifikohu me Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Pastro kërkimin</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Kërko</string>
+</resources>

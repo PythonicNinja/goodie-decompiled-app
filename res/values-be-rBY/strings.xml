@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">Перайсці на галоўную старонку</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">%1$s, %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">%1$s, %2$s, %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">Перайсці ўверх</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">Дадатковыя параметры</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">Гатова</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">Прагледзець усё</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">Выбраць праграму</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">ВЫКЛ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">УКЛ.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">Пошук...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">Выдалiць запыт</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">Запыт на пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">Пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">Адправіць запыт</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">Галасавы пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">Абагуліць з</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">Абагуліць з %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">Згарнуць</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">Пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">больш за 999</string>
+</resources>

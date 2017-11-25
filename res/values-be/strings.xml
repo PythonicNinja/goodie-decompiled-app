@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">Уключыць</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">Уключыць службы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">Усталяваць</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">Атрымаць службы Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">Памылка службаў Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">Абнавіць</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">Абнаўленне службаў Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Адкрыць на тэлефоне</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">Увайсцi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">Увайсці праз Google</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">Ачысціць пошук</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">Пошук</string>
+</resources>

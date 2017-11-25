@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090000">پیمایش به صفحه اصلی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090001">‏%1$s‏، %2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090002">‏%1$s‏، %2$s‏، %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090003">پیمایش به بالا</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090004">گزینه‌های بیشتر</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">تمام</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">مشاهده همه</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">انتخاب برنامه</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">خاموش</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">روشن</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">جستجو…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">پاک کردن عبارت جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">عبارت جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">ارسال عبارت جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">جستجوی شفاهی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">اشتراک‌گذاری با</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">‏اشتراک‌گذاری با %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">کوچک کردن</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">فعال کردن</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">‏‫فعال کردن سرویس‌های Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">نصب</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">‏%1$s بدون خدمات Google Play که در دستگاه شما وجود ندارد اجرا نمی‌شود.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">‏دریافت سرویس‌های Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">‏خطا در خدمات Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">‏%1$s بدون خدمات Google Play که در دستگاه شما پشتیبانی نمی‌شود، اجرا نخواهد شد.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">به‌روزرسانی</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">‏تاز مانی که سرویس‌های Google Play را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">‏‫به‌روزرسانی سرویس‌های Google Play</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">‏%1$s بدون سرویس‌های Google Play که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">‏نسخه جدید سرویس‌های Google Play نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">باز کردن در تلفن</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">ورود به سیستم</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">‏ورود به سیستم با Google‎</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">پاک کردن جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">جستجو</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">۹۹۹+</string>
+</resources>
